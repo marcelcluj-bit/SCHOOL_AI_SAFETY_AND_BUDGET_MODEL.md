@@ -68,6 +68,6 @@ v (Critical Threat)                                       v (Normal)
 * `README.md` — Global vision, macro-budget analysis, and deployment guidelines.
 * `SCHOOL_AI_SAFETY_AND_BUDGET_MODEL.md` — Detailed policy, legal framework, and technical whitepaper.
 * `school_ai_safety_monitor.py` — Reference Python script for real-time video stream threat detection.
-* `LICENSE` — Open-source MIT License.
+* `LICENSE` — Open-source MIT License.  
 
-* 
+
